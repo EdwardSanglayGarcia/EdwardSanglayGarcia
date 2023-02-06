@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEdwardSanglayGarcia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=EdwardSanglayGarcia&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=𝗦𝗮𝗿𝗸𝗮𝘂𝘁+Github+Stats)](https://github.com/EdwardSanglayGarcia)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=EdwardSanglayGarcia&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Edward+Garcia+Github+Stats)](https://github.com/EdwardSanglayGarcia)
 
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=EdwardSanglayGarcia&theme=darkhub&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
